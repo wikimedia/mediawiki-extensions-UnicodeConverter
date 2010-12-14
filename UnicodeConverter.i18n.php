@@ -526,7 +526,7 @@ $messages['mk'] = array(
 	'unicodeconverter' => 'Претворач на Уникод',
 	'unicodeconverter-desc' => 'Прост пример за модул за специјална страница. [[Special:UnicodeConverter|Ако му се зададе низата UTF-8]], ја претвора во HTML ентитети погодни за интернет-страници по стандардот ISO 8859-1',
 	'unicodeconverter-ok' => 'ОК',
-	'unicodeconverter-oldtext' => 'Оригинален текст:',
+	'unicodeconverter-oldtext' => 'Изворен текст:',
 	'unicodeconverter-newtext' => 'Претворен текст:',
 );
 
