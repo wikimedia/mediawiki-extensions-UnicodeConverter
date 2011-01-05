@@ -212,10 +212,12 @@ $messages['el'] = array(
 );
 
 /** Esperanto (Esperanto)
+ * @author Mihxil
  * @author Yekrats
  */
 $messages['eo'] = array(
 	'unicodeconverter' => 'Unikoda konvertilo',
+	'unicodeconverter-desc' => 'Simpla ekzemplo de speciala paĝmodulo. [[Special:UnicodeConverter|Donita ĉeno laŭ UTF-8]], ĝi transformas ĝin al HTML-entoj taŭgaj por retpaĝoj koditaj laŭ ISO-8859-1.',
 	'unicodeconverter-ok' => 'Ek',
 	'unicodeconverter-oldtext' => 'Originala teksto:',
 	'unicodeconverter-newtext' => 'Konvertita teksto:',
