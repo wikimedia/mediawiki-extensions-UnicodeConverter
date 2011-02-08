@@ -493,6 +493,13 @@ $messages['ksh'] = array(
 	'unicodeconverter-newtext' => 'Ömjesaz Tex:',
 );
 
+/** Kurdish (Latin) (Kurdî (Latin))
+ * @author George Animal
+ */
+$messages['ku-latn'] = array(
+	'unicodeconverter-ok' => 'Temam',
+);
+
 /** Latin (Latina)
  * @author Omnipaedista
  */
