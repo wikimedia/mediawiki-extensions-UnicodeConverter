@@ -90,6 +90,15 @@ $messages['arz'] = array(
 	'unicodeconverter-newtext' => 'النص المحول:',
 );
 
+/** Azerbaijani (Azərbaycanca)
+ * @author PPerviz
+ */
+$messages['az'] = array(
+	'unicodeconverter-ok' => 'OK',
+	'unicodeconverter-oldtext' => 'Orijinal mətn:',
+	'unicodeconverter-newtext' => 'Çevirilən mətn:',
+);
+
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
