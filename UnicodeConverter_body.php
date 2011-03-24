@@ -13,7 +13,7 @@ class SpecialUnicodeConverter extends SpecialPage
 	function execute( $par ) {
 		global $wgRequest, $wgOut;
 
-		wfLoadExtensionMessages( 'UnicodeConverter' );
+		
 
 		$this->setHeaders();
 
