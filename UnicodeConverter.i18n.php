@@ -759,6 +759,17 @@ $messages['sk'] = array(
 	'unicodeconverter-newtext' => 'Skonvertovaný text:',
 );
 
+/** Slovenian (Slovenščina)
+ * @author Dbc334
+ */
+$messages['sl'] = array(
+	'unicodeconverter' => 'Pretvornik unikod',
+	'unicodeconverter-desc' => 'Preprost primer modula posebne strani. [[Special:UnicodeConverter|Podan niz v UTF-8]] pretvori v entitete HTML, primerne za spletno stran ISO 8859-1',
+	'unicodeconverter-ok' => 'V redu',
+	'unicodeconverter-oldtext' => 'Izvirno besedilo:',
+	'unicodeconverter-newtext' => 'Pretvorjeno besedilo:',
+);
+
 /** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
