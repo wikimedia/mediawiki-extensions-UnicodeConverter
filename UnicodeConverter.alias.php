@@ -4,26 +4,31 @@
  *
  */
 
-$aliases = array();
+$specialPageAliases = array();
 
-$aliases['en'] = array(
+$specialPageAliases['en'] = array(
 	'UnicodeConvertor' => array( 'UnicodeConvertor' ),
 );
 
 /** Arabic (العربية)
  * @author Meno25
  */
-$aliases['ar'] = array(
+$specialPageAliases['ar'] = array(
 	'UnicodeConvertor' => array( 'محول_يونيكود' ),
 );
 
 /** Egyptian Spoken Arabic (مصرى)
  * @author Meno25
  */
-$aliases['arz'] = array(
+$specialPageAliases['arz'] = array(
 	'UnicodeConvertor' => array( 'محول_يونيكود' ),
 );
 
-$aliases['nl'] = array(
+$specialPageAliases['nl'] = array(
 	'UnicodeConvertor' => array( 'UnicodeConverteren' ),
 );
+
+/**
+ * For backwards compatibility with MediaWiki 1.15 and earlier.
+ */
+$aliases =& $specialPageAliases;
