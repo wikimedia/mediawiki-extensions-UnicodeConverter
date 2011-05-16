@@ -258,7 +258,7 @@ $messages['et'] = array(
  */
 $messages['eu'] = array(
 	'unicodeconverter' => 'Unicode bihurtzailea',
-	'unicodeconverter-ok' => 'Ongi da',
+	'unicodeconverter-ok' => 'Ados',
 	'unicodeconverter-oldtext' => 'Jatorrizko testua:',
 	'unicodeconverter-newtext' => 'Eraldatutako testua:',
 );
