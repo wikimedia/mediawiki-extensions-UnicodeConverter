@@ -560,6 +560,13 @@ $messages['mr'] = array(
 	'unicodeconverter-newtext' => 'बदललेला मजकूर:',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'unicodeconverter-ok' => 'OK',
+);
+
 /** Erzya (Эрзянь)
  * @author Botuzhaleny-sodamo
  */
