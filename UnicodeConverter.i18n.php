@@ -564,7 +564,11 @@ $messages['mr'] = array(
  * @author Anakmalaysia
  */
 $messages['ms'] = array(
+	'unicodeconverter' => 'Penukar Unicode',
+	'unicodeconverter-desc' => 'Contoh ringkas modul laman khas. [[Special:UnicodeConverter|Diberikannya rentetan dalam UTF-8]], ia menukarkannya kepada entiti-entiti HTML yang sesuai untuk laman web ISO 8859-1',
 	'unicodeconverter-ok' => 'OK',
+	'unicodeconverter-oldtext' => 'Teks asal:',
+	'unicodeconverter-newtext' => 'Teks ditukar:',
 );
 
 /** Erzya (Эрзянь)
