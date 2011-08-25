@@ -319,7 +319,7 @@ $messages['frp'] = array(
 $messages['gl'] = array(
 	'unicodeconverter' => 'Transformador de unicode',
 	'unicodeconverter-desc' => 'Un exemplo sinxelo do módulo dunha páxina especial. [[Special:UnicodeConverter|Dándolle unha corda en UTF-8]] convértea en entidades adecuadas en HTML para unha páxina web ISO 8859-1',
-	'unicodeconverter-ok' => 'De acordo',
+	'unicodeconverter-ok' => 'Aceptar',
 	'unicodeconverter-oldtext' => 'Texto orixinal:',
 	'unicodeconverter-newtext' => 'Texto transformado:',
 );
