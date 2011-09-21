@@ -632,6 +632,13 @@ $messages['oc'] = array(
 	'unicodeconverter-newtext' => 'Tèxte un còp convertit :',
 );
 
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Psubhashish
+ */
+$messages['or'] = array(
+	'unicodeconverter-ok' => 'ଠିକ ଅଛି',
+);
+
 /** Deitsch (Deitsch)
  * @author Xqt
  */
