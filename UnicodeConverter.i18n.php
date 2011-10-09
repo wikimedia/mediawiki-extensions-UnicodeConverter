@@ -788,7 +788,7 @@ $messages['sl'] = array(
 	'unicodeconverter-newtext' => 'Pretvorjeno besedilo:',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -796,7 +796,7 @@ $messages['sr-ec'] = array(
 	'unicodeconverter' => 'Јуникод конвертер',
 	'unicodeconverter-desc' => 'Једноставан пример модула специјалне стреане. [[Special:UnicodeConverter|Дати стринг у UTF-8]] може да конвертује у HTML ентитете погодне за неку ISO 8859-1 веб-страну',
 	'unicodeconverter-ok' => 'У реду',
-	'unicodeconverter-oldtext' => 'Оригинални текст:',
+	'unicodeconverter-oldtext' => 'Изворни текст:',
 	'unicodeconverter-newtext' => 'Конвертован текст:',
 );
 
