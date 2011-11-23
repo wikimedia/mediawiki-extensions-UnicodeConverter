@@ -502,7 +502,7 @@ $messages['ksh'] = array(
 	'unicodeconverter-newtext' => 'Ömjesaz Tex:',
 );
 
-/** Kurdish (Latin) (Kurdî (Latin))
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -800,7 +800,7 @@ $messages['sr-ec'] = array(
 	'unicodeconverter-newtext' => 'Конвертован текст:',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -894,7 +894,7 @@ $messages['tr'] = array(
 	'unicodeconverter-newtext' => 'Dönüştürülmüş metin:',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+/** Tatar (Cyrillic script) (Татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -905,14 +905,14 @@ $messages['tt-cyrl'] = array(
 	'unicodeconverter-newtext' => 'Үзгәртелгән текст:',
 );
 
-/** ئۇيغۇرچە (ئۇيغۇرچە)
+/** Uyghur (Arabic script) (ئۇيغۇرچە)
  * @author Alfredie
  */
 $messages['ug-arab'] = array(
 	'unicodeconverter-ok' => 'ماقۇل',
 );
 
-/** Uighur (Latin) (ئۇيغۇرچە / Uyghurche‎ (Latin))
+/** Uyghur (Latin script) (Uyghurche‎)
  * @author Jose77
  */
 $messages['ug-latn'] = array(
