@@ -15,7 +15,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'name' => 'Unicode Converter',
 	//'version' => '1.1',
 	'author' => 'Tim Starling',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:UnicodeConvertor',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:UnicodeConvertor',
 	'descriptionmsg' => 'unicodeconverter-desc',
 );
 
