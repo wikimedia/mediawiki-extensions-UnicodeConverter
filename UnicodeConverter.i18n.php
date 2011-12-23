@@ -591,13 +591,14 @@ $messages['nah'] = array(
 );
 
 /** Dutch (Nederlands)
+ * @author SPQRobin
  * @author Siebrand
  */
 $messages['nl'] = array(
 	'unicodeconverter' => 'Unicodeconversie',
 	'unicodeconverter-desc' => 'Een simpel voorbeeld van een speciale pagina waarin [[Special:UnicodeConverter|een tekst in UTF-8]] wordt geconverteerd naar HTML-entiteiten die te gebruiken zijn in een ISO 8859-1-webpagina',
 	'unicodeconverter-ok' => 'OK',
-	'unicodeconverter-oldtext' => 'Originele tekst:',
+	'unicodeconverter-oldtext' => 'Oorspronkelijke tekst:',
 	'unicodeconverter-newtext' => 'Geconverteerde tekst:',
 );
 
