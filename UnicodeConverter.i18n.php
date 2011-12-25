@@ -590,6 +590,17 @@ $messages['nah'] = array(
 	'unicodeconverter-ok' => 'Quēmah',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'unicodeconverter' => 'Unicode-konvertering',
+	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
+	'unicodeconverter-ok' => 'OK',
+	'unicodeconverter-oldtext' => 'Opprinnelig tekst:',
+	'unicodeconverter-newtext' => 'Konvertert tekst:',
+);
+
 /** Dutch (Nederlands)
  * @author SPQRobin
  * @author Siebrand
@@ -610,17 +621,6 @@ $messages['nn'] = array(
 	'unicodeconverter-desc' => 'Eit enkelt døme på ein spesialsidemodul. Når han vert gjeve ein [[Special:UnicodeConverter|streng i UTF-8]] konverterar han den til HTML-einingar til bruk på ISO 8859-1-sider.',
 	'unicodeconverter-ok' => 'OK',
 	'unicodeconverter-oldtext' => 'Opphavleg tekst:',
-	'unicodeconverter-newtext' => 'Konvertert tekst:',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'unicodeconverter' => 'Unicode-konvertering',
-	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
-	'unicodeconverter-ok' => 'OK',
-	'unicodeconverter-oldtext' => 'Opprinnelig tekst:',
 	'unicodeconverter-newtext' => 'Konvertert tekst:',
 );
 
@@ -805,12 +805,13 @@ $messages['sr-ec'] = array(
 
 /** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
+ * @author Rancher
  */
 $messages['sr-el'] = array(
 	'unicodeconverter' => 'Junikod konverter',
 	'unicodeconverter-desc' => 'Jednostavan primer modula specijalne streane. [[Special:UnicodeConverter|Dati string u UTF-8]] može da konvertuje u HTML entitete pogodne za neku ISO 8859-1 veb-stranu',
-	'unicodeconverter-ok' => 'OK',
-	'unicodeconverter-oldtext' => 'Originalni tekst:',
+	'unicodeconverter-ok' => 'U redu',
+	'unicodeconverter-oldtext' => 'Izvorni tekst:',
 	'unicodeconverter-newtext' => 'Konvertovan tekst:',
 );
 
