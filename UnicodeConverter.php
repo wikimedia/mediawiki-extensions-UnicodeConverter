@@ -21,6 +21,6 @@ $wgExtensionCredits['specialpage'][] = array(
 
 $dir = dirname(__FILE__) . '/';
 $wgExtensionMessagesFiles['UnicodeConverter'] = $dir . 'UnicodeConverter.i18n.php';
-$wgExtensionAliasesFiles['UnicodeConverter'] = $dir . 'UnicodeConverter.alias.php';
+$wgExtensionMessagesFiles['UnicodeConverterAlias'] = $dir . 'UnicodeConverter.alias.php';
 $wgAutoloadClasses['SpecialUnicodeConverter'] = $dir . 'UnicodeConverter_body.php';
 $wgSpecialPages['UnicodeConverter'] = 'SpecialUnicodeConverter';
