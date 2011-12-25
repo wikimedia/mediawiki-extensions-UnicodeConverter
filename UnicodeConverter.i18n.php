@@ -616,7 +616,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'unicodeconverter' => 'Unicode-konvertering',
 	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
 	'unicodeconverter-ok' => 'OK',
