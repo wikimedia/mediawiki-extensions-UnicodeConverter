@@ -13,8 +13,6 @@ class SpecialUnicodeConverter extends SpecialPage
 	function execute( $par ) {
 		global $wgRequest, $wgOut;
 
-		
-
 		$this->setHeaders();
 
 		$q = $wgRequest->getText( 'q' );
