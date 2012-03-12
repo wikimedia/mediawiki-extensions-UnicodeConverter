@@ -838,6 +838,13 @@ $messages['sv'] = array(
 	'unicodeconverter-newtext' => 'Konverterad text:',
 );
 
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'unicodeconverter-ok' => 'சரி',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
