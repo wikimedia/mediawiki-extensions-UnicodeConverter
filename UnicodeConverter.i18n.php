@@ -447,9 +447,10 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'unicodeconverter' => 'ユニコード変換器',
+	'unicodeconverter' => 'Unicode 変換器',
 	'unicodeconverter-desc' => '特別ページ・モジュールの単純な例。[[Special:UnicodeConverter|文字列をUTF-8で与えると]]、ISO 8859-1のウェブページに適した実体参照に変換する',
 	'unicodeconverter-ok' => 'OK',
 	'unicodeconverter-oldtext' => '変換前:',
