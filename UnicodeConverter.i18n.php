@@ -280,7 +280,7 @@ $messages['eu'] = array(
  */
 $messages['fa'] = array(
 	'unicodeconverter' => 'مبدل یونیکد',
-	'unicodeconverter-desc' => 'مثالی ساده از یک ماژول صفحهٔ ویژه. [[ویژه:UnicodeConverter|رشته‌ای به UTF-8 می‌دهد]]، آن این را به نهادهای اچ‌تی‌ام‌ال مناسب برای صفحهٔ وب ایزو 8859-1 تبدیل می‌کند',
+	'unicodeconverter-desc' => 'مثالی ساده از ماژول یک صفحهٔ ویژه. [[Special:UnicodeConverter|رشته‌ای به UTF-8 می‌دهد]]، آن این را به نهادهای اچ‌تی‌ام‌ال مناسب برای صفحهٔ وب ایزو ۸۸۵۹-۱ تبدیل می‌کند',
 	'unicodeconverter-ok' => 'تبدیل شود',
 	'unicodeconverter-oldtext' => 'متن اصلی:',
 	'unicodeconverter-newtext' => 'متن تبدیل شده:',
