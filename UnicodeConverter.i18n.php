@@ -935,7 +935,7 @@ $messages['ug-arab'] = array(
 	'unicodeconverter-ok' => 'ماقۇل',
 );
 
-/** Uyghur (Latin script) (Uyghurche‎)
+/** Uyghur (Latin script) (Uyghurche)
  * @author Jose77
  */
 $messages['ug-latn'] = array(
@@ -965,7 +965,7 @@ $messages['vec'] = array(
 	'unicodeconverter-newtext' => 'Testo convertìo:',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
