@@ -518,9 +518,10 @@ $messages['ksh'] = array(
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
+ * @author Ghybu
  */
 $messages['ku-latn'] = array(
-	'unicodeconverter-ok' => 'Temam',
+	'unicodeconverter-ok' => 'Baş e',
 );
 
 /** Latin (Latina)
