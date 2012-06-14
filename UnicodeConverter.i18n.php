@@ -90,7 +90,7 @@ $messages['arz'] = array(
 	'unicodeconverter-newtext' => 'النص المحول:',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -101,7 +101,7 @@ $messages['ast'] = array(
 	'unicodeconverter-newtext' => 'Testu convertíu:',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author PPerviz
  */
 $messages['az'] = array(
@@ -122,7 +122,7 @@ $messages['be-tarask'] = array(
 	'unicodeconverter-newtext' => 'Канвэртаваны тэкст:',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -141,7 +141,7 @@ $messages['bn'] = array(
 	'unicodeconverter-newtext' => 'রূপান্তরিত লেখা:',
 );
 
-/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী)
+/** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী)
  * @author Usingha
  */
 $messages['bpy'] = array(
@@ -152,7 +152,7 @@ $messages['bpy'] = array(
 	'unicodeconverter-newtext' => 'অনুবাদ অসে ৱাহিহান:',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -163,7 +163,7 @@ $messages['br'] = array(
 	'unicodeconverter-newtext' => 'Testenn amdroet :',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -174,7 +174,7 @@ $messages['bs'] = array(
 	'unicodeconverter-newtext' => 'Pretvoreni tekst:',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Solde
  * @author Vriullop
  */
@@ -186,7 +186,7 @@ $messages['ca'] = array(
 	'unicodeconverter-newtext' => 'Text convertit:',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Matěj Grabovský
  */
 $messages['cs'] = array(
@@ -243,7 +243,7 @@ $messages['eo'] = array(
 	'unicodeconverter-newtext' => 'Konvertita teksto:',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Imre
  * @author Sanbec
  */
@@ -255,7 +255,7 @@ $messages['es'] = array(
 	'unicodeconverter-newtext' => 'Texto convertido:',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  */
 $messages['et'] = array(
@@ -263,7 +263,7 @@ $messages['et'] = array(
 	'unicodeconverter-oldtext' => 'Originaaltekst:',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Kobazulo
  */
@@ -286,7 +286,7 @@ $messages['fa'] = array(
 	'unicodeconverter-newtext' => 'متن تبدیل شده:',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Silvonen
@@ -301,7 +301,7 @@ $messages['fi'] = array(
 	'unicodeconverter-newtext' => 'Muunnettu teksti',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author McDutchie
  * @author PieRRoMaN
@@ -315,7 +315,7 @@ $messages['fr'] = array(
 	'unicodeconverter-newtext' => 'Texte converti :',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -367,7 +367,7 @@ $messages['he'] = array(
 	'unicodeconverter-newtext' => 'הטקסט המומר:',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Herr Mlinka
  */
 $messages['hr'] = array(
@@ -385,7 +385,7 @@ $messages['hsb'] = array(
 	'unicodeconverter-newtext' => 'Konwertowany tekst:',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  */
@@ -397,7 +397,7 @@ $messages['hu'] = array(
 	'unicodeconverter-newtext' => 'Konvertált szöveg:',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -434,7 +434,7 @@ $messages['io'] = array(
 	'unicodeconverter-newtext' => 'Texto konvertita:',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -551,7 +551,7 @@ $messages['mhr'] = array(
 	'unicodeconverter-ok' => 'Йӧра',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brest
  */
@@ -626,7 +626,7 @@ $messages['nl'] = array(
 	'unicodeconverter-newtext' => 'Geconverteerde tekst:',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -637,7 +637,7 @@ $messages['nn'] = array(
 	'unicodeconverter-newtext' => 'Konvertert tekst:',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -662,7 +662,7 @@ $messages['pdc'] = array(
 	'unicodeconverter-ok' => 'OK',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  * @author Jwitos
  * @author Leinad
@@ -705,7 +705,7 @@ $messages['ps'] = array(
 	'unicodeconverter-newtext' => 'اړول شوی متن:',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Malafaya
  */
 $messages['pt'] = array(
@@ -716,7 +716,7 @@ $messages['pt'] = array(
 	'unicodeconverter-newtext' => 'Texto convertido:',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -727,7 +727,7 @@ $messages['pt-br'] = array(
 	'unicodeconverter-newtext' => 'Texto convertido:',
 );
 
-/** Romansh (Rumantsch)
+/** Romansh (rumantsch)
  * @author Gion-andri
  */
 $messages['rm'] = array(
@@ -736,7 +736,7 @@ $messages['rm'] = array(
 	'unicodeconverter-newtext' => 'Text convertà:',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
@@ -746,7 +746,7 @@ $messages['ro'] = array(
 	'unicodeconverter-newtext' => 'Text convertit:',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -757,7 +757,7 @@ $messages['roa-tara'] = array(
 	'unicodeconverter-newtext' => 'Teste convertite:',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ferrer
  * @author Александр Сигачёв
  */
@@ -782,7 +782,7 @@ $messages['si'] = array(
 	'unicodeconverter-newtext' => 'පරිවර්ත්‍ය පෙළ:',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -793,7 +793,7 @@ $messages['sk'] = array(
 	'unicodeconverter-newtext' => 'Skonvertovaný text:',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -804,7 +804,7 @@ $messages['sl'] = array(
 	'unicodeconverter-newtext' => 'Pretvorjeno besedilo:',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -816,7 +816,7 @@ $messages['sr-ec'] = array(
 	'unicodeconverter-newtext' => 'Конвертован текст:',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  * @author Rancher
  */
@@ -839,7 +839,7 @@ $messages['stq'] = array(
 	'unicodeconverter-newtext' => 'Konvertierden Text:',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author M.M.S.
  * @author Najami
  */
@@ -867,7 +867,7 @@ $messages['te'] = array(
 	'unicodeconverter-newtext' => 'మార్చిన పాఠ్యం:',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -918,7 +918,7 @@ $messages['tr'] = array(
 	'unicodeconverter-newtext' => 'Dönüştürülmüş metin:',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -943,7 +943,7 @@ $messages['ug-latn'] = array(
 	'unicodeconverter-ok' => 'Maqul',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Aleksandrit
  * @author Prima klasy4na
  */
@@ -955,7 +955,7 @@ $messages['uk'] = array(
 	'unicodeconverter-newtext' => 'Конвертований текст:',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -1016,7 +1016,7 @@ $messages['yi'] = array(
 	'unicodeconverter-oldtext' => 'ארגינעלער טעקסט:',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gaoxuewei
  * @author Gzdavidwong
  * @author PhiLiP
@@ -1028,7 +1028,7 @@ $messages['zh-hans'] = array(
 	'unicodeconverter-newtext' => '转换后文字',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Gzdavidwong
  * @author Liangent
  * @author Mark85296341
