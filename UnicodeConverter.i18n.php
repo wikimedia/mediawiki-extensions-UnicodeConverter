@@ -54,7 +54,7 @@ $messages['am'] = array(
 	'unicodeconverter-ok' => 'እሺ',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -110,7 +110,7 @@ $messages['az'] = array(
 	'unicodeconverter-newtext' => 'Çevirilən mətn:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -209,7 +209,7 @@ $messages['de'] = array(
 	'unicodeconverter-newtext' => 'Konvertierter Text:',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -326,7 +326,7 @@ $messages['frp'] = array(
 	'unicodeconverter-newtext' => 'Tèxto convèrti :',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -374,7 +374,7 @@ $messages['hr'] = array(
 	'unicodeconverter-oldtext' => 'Izvorni tekst:',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
