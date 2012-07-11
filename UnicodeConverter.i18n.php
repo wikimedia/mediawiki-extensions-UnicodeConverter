@@ -544,7 +544,7 @@ $messages['lb'] = array(
 	'unicodeconverter-newtext' => 'Text ëmwandelen:',
 );
 
-/** Eastern Mari (Олык Марий)
+/** Eastern Mari (олык марий)
  * @author Сай
  */
 $messages['mhr'] = array(
@@ -586,7 +586,7 @@ $messages['ms'] = array(
 	'unicodeconverter-newtext' => 'Teks ditukar:',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -603,9 +603,7 @@ $messages['nah'] = array(
 	'unicodeconverter-ok' => 'Quēmah',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'unicodeconverter' => 'Unicode-konvertering',
 	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
@@ -966,7 +964,7 @@ $messages['vec'] = array(
 	'unicodeconverter-newtext' => 'Testo convertìo:',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
@@ -997,7 +995,7 @@ $messages['vo'] = array(
 	'unicodeconverter-newtext' => 'Vödem fomätü Unicode:',
 );
 
-/** Kalmyk (Хальмг)
+/** Kalmyk (хальмг)
  * @author Huuchin
  */
 $messages['xal'] = array(
