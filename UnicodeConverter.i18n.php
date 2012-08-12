@@ -767,6 +767,13 @@ $messages['ru'] = array(
 	'unicodeconverter-newtext' => 'Преобразованный текст:',
 );
 
+/** Rusyn (русиньскый)
+ * @author Gazeb
+ */
+$messages['rue'] = array(
+	'unicodeconverter-ok' => 'ОК',
+);
+
 /** Sinhala (සිංහල)
  * @author Calcey
  * @author චතුනි අලහප්පෙරුම
