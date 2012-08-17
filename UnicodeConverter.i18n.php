@@ -960,6 +960,13 @@ $messages['uk'] = array(
 	'unicodeconverter-newtext' => 'Конвертований текст:',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'unicodeconverter-ok' => 'ٹھیک ہے',
+);
+
 /** vèneto (vèneto)
  * @author Candalua
  */
