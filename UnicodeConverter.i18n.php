@@ -110,7 +110,7 @@ $messages['az'] = array(
 	'unicodeconverter-newtext' => 'Çevirilən mətn:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -516,7 +516,7 @@ $messages['ksh'] = array(
 	'unicodeconverter-newtext' => 'Ömjesaz Tex:',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Ghybu
  */
@@ -603,7 +603,7 @@ $messages['nah'] = array(
 	'unicodeconverter-ok' => 'Quēmah',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'unicodeconverter' => 'Unicode-konvertering',
 	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
@@ -624,7 +624,7 @@ $messages['nl'] = array(
 	'unicodeconverter-newtext' => 'Geconverteerde tekst:',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -809,7 +809,7 @@ $messages['sl'] = array(
 	'unicodeconverter-newtext' => 'Pretvorjeno besedilo:',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -821,7 +821,7 @@ $messages['sr-ec'] = array(
 	'unicodeconverter-newtext' => 'Конвертован текст:',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  * @author Rancher
  */
@@ -1028,7 +1028,7 @@ $messages['yi'] = array(
 	'unicodeconverter-oldtext' => 'ארגינעלער טעקסט:',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  * @author Gzdavidwong
  * @author PhiLiP
@@ -1040,7 +1040,7 @@ $messages['zh-hans'] = array(
 	'unicodeconverter-newtext' => '转换后文字',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Gzdavidwong
  * @author Liangent
  * @author Mark85296341
