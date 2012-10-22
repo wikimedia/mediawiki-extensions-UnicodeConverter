@@ -419,7 +419,8 @@ $messages['id'] = array(
 	'unicodeconverter-newtext' => 'Teks ubahan:',
 );
 
-/** Igbo (Igbo) */
+/** Igbo (Igbo)
+ */
 $messages['ig'] = array(
 	'unicodeconverter-ok' => 'Ngwanu',
 );
@@ -603,7 +604,8 @@ $messages['nah'] = array(
 	'unicodeconverter-ok' => 'Quēmah',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'unicodeconverter' => 'Unicode-konvertering',
 	'unicodeconverter-desc' => 'En enkelt eksempel av en spesialsidemodul. Når den blir gitt [[Special:UnicodeConverter|streng i UTF-8]] konverterer den den til HTML-entiteter til bruk på ISO 8859-1-sider.',
@@ -781,7 +783,7 @@ $messages['rue'] = array(
  */
 $messages['si'] = array(
 	'unicodeconverter' => 'යුනිකේත පරිවර්තකය',
-	'unicodeconverter-desc' => 'විශේෂ පිටු මොඩියුලයකට සරල උදාහරණයකි. [[වි‍ශේෂ පිටු:යුනිකේතපරිවර්තකය|වචනය UTF-8]], එය HTML ඇතුළු කිරීම් ISO 8859-1 වෙබ් පිටුවක් සඳහා පරිවර්තනයට සුදුසු වේ.',
+	'unicodeconverter-desc' => 'විශේෂ පිටු මොඩියුලයකට සරල උදාහරණයකි. [[වි‍ශේෂ පිටු:යුනිකේතපරිවර්තකය|වචනය UTF-8]], එය HTML ඇතුළු කිරීම් ISO 8859-1 වෙබ් පිටුවක් සඳහා පරිවර්තනයට සුදුසු වේ.', # Fuzzy
 	'unicodeconverter-ok' => 'හරි',
 	'unicodeconverter-oldtext' => 'මුල් පෙළ:',
 	'unicodeconverter-newtext' => 'පරිවර්ත්‍ය පෙළ:',
@@ -1052,4 +1054,3 @@ $messages['zh-hant'] = array(
 	'unicodeconverter-oldtext' => '原文字：',
 	'unicodeconverter-newtext' => '轉換後文字：',
 );
-
