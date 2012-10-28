@@ -1026,8 +1026,10 @@ $messages['xal'] = array(
  * @author פוילישער
  */
 $messages['yi'] = array(
+	'unicodeconverter' => 'אוניקאד קאנווערטירער',
 	'unicodeconverter-ok' => 'אויספֿירן',
 	'unicodeconverter-oldtext' => 'ארגינעלער טעקסט:',
+	'unicodeconverter-newtext' => 'קאנווערטירטער טעקסט:',
 );
 
 /** Simplified Chinese (中文（简体）‎)
