@@ -860,9 +860,12 @@ $messages['sv'] = array(
 
 /** Tamil (தமிழ்)
  * @author Karthi.dr
+ * @author மதனாஹரன்
  */
 $messages['ta'] = array(
+	'unicodeconverter' => 'ஒருங்குறி மாற்றி',
 	'unicodeconverter-ok' => 'சரி',
+	'unicodeconverter-oldtext' => 'மூலவுரை:',
 );
 
 /** Telugu (తెలుగు)
