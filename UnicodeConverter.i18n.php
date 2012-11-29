@@ -90,6 +90,16 @@ $messages['arz'] = array(
 	'unicodeconverter-newtext' => 'النص المحول:',
 );
 
+/** Assamese (অসমীয়া)
+ * @author Bishnu Saikia
+ */
+$messages['as'] = array(
+	'unicodeconverter' => 'ইউনিকোড পৰিৱৰ্তক',
+	'unicodeconverter-ok' => 'ঠিক আছে',
+	'unicodeconverter-oldtext' => 'মূল লেখা:',
+	'unicodeconverter-newtext' => 'ৰূপান্তৰিত পাঠ্য:',
+);
+
 /** Asturian (asturianu)
  * @author Xuacu
  */
