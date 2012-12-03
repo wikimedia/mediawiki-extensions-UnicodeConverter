@@ -407,6 +407,15 @@ $messages['hu'] = array(
 	'unicodeconverter-newtext' => 'Konvertált szöveg:',
 );
 
+/** Armenian (Հայերեն)
+ * @author Vadgt
+ */
+$messages['hy'] = array(
+	'unicodeconverter-desc' => 'Մի պարզ օրինակ է սպասարկող էջի մոդուլը: [[Special:UnicodeConverter|Տվյալ բանը մի տող է utf-8 ից]]...',
+	'unicodeconverter-ok' => 'ԼԱՎ',
+	'unicodeconverter-oldtext' => 'Բնօրինակ տեքստը՝',
+);
+
 /** Interlingua (interlingua)
  * @author McDutchie
  */
