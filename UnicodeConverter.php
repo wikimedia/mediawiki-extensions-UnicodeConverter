@@ -12,10 +12,10 @@ if (!defined('MEDIAWIKI')) {
 
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
-	'name' => 'Unicode Converter',
+	'name' => 'UnicodeConverter',
 	//'version' => '1.1',
 	'author' => 'Tim Starling',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:UnicodeConvertor',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:UnicodeConverter',
 	'descriptionmsg' => 'unicodeconverter-desc',
 );
 
