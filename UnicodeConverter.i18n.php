@@ -1069,9 +1069,11 @@ $messages['yi'] = array(
  * @author Gaoxuewei
  * @author Gzdavidwong
  * @author PhiLiP
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'unicodeconverter' => 'Unicode转换器',
+	'unicodeconverter-desc' => '油罐车简单的特殊页面模块例子。[[Special:UnicodeConverter|以UTF-8给定一个字符串]]，会转换它到适用ISO 8859-1网页的HTML字符实体',
 	'unicodeconverter-ok' => '确定',
 	'unicodeconverter-oldtext' => '原文字：',
 	'unicodeconverter-newtext' => '转换后文字',
