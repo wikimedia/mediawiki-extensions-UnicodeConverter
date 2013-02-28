@@ -20,10 +20,11 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Jon Harald Søby
  * @author Purodha
+ * @author Shirayuki
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
-	'unicodeconverter-desc' => '{{desc}}',
+	'unicodeconverter-desc' => '{{desc|name=Unicode Converter|url=http://www.mediawiki.org/wiki/Extension:UnicodeConverter}}',
 	'unicodeconverter-ok' => '{{Identical|OK}}',
 );
 
