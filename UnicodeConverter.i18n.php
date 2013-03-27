@@ -24,6 +24,7 @@ $messages['en'] = array(
  * @author The Evil IP address
  */
 $messages['qqq'] = array(
+	'unicodeconverter' => '{{doc-special|UnicodeConverter|unlisted=1}}',
 	'unicodeconverter-desc' => '{{desc|name=Unicode Converter|url=http://www.mediawiki.org/wiki/Extension:UnicodeConverter}}',
 	'unicodeconverter-ok' => '{{Identical|OK}}',
 );
