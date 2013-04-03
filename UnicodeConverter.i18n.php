@@ -26,7 +26,16 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'unicodeconverter' => '{{doc-special|UnicodeConverter|unlisted=1}}',
 	'unicodeconverter-desc' => '{{desc|name=Unicode Converter|url=http://www.mediawiki.org/wiki/Extension:UnicodeConverter}}',
-	'unicodeconverter-ok' => '{{Identical|OK}}',
+	'unicodeconverter-ok' => 'Used as label for the Submit button.
+{{Identical|OK}}',
+	'unicodeconverter-oldtext' => 'Used as label for output.
+
+See also:
+* {{msg-mw|Unicodeconverter-newtext}}',
+	'unicodeconverter-newtext' => 'Used as label for output.
+
+See also:
+* {{msg-mw|Unicodeconverter-oldtext}}',
 );
 
 /** Afrikaans (Afrikaans)
