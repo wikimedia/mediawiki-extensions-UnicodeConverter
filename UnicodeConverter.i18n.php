@@ -101,7 +101,7 @@ $messages['arz'] = array(
 	'unicodeconverter-newtext' => 'النص المحول:',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  */
 $messages['as'] = array(
@@ -634,7 +634,7 @@ $messages['nah'] = array(
 	'unicodeconverter-ok' => 'Quēmah',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  */
 $messages['nb'] = array(
 	'unicodeconverter' => 'Unicode-konvertering',
@@ -667,7 +667,7 @@ $messages['nl'] = array(
 	'unicodeconverter-newtext' => 'Geconverteerde tekst:',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -689,7 +689,7 @@ $messages['oc'] = array(
 	'unicodeconverter-newtext' => 'Tèxte un còp convertit :',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Psubhashish
  */
 $messages['or'] = array(
