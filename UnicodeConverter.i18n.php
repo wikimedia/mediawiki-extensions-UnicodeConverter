@@ -1092,12 +1092,14 @@ $messages['zh-hans'] = array(
 
 /** Traditional Chinese (中文（繁體）‎)
  * @author Gzdavidwong
+ * @author Justincheng12345
  * @author Liangent
  * @author Mark85296341
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
 	'unicodeconverter' => 'Unicode 轉換器',
+	'unicodeconverter-desc' => '一個簡單的特殊頁面模組。[[Special:UnicodeConverter|提供一個使用UTF-8的字串]]，返回一個適用於ISO 8859-1網頁的HTML實體',
 	'unicodeconverter-ok' => '確定',
 	'unicodeconverter-oldtext' => '原文字：',
 	'unicodeconverter-newtext' => '轉換後文字：',
