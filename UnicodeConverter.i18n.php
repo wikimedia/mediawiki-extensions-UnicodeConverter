@@ -154,9 +154,10 @@ $messages['bg'] = array(
 
 /** Bengali (বাংলা)
  * @author Bellayet
+ * @author Jayantanth
  */
 $messages['bn'] = array(
-	'unicodeconverter' => 'ইউনিকো্ড কনভার্টার',
+	'unicodeconverter' => 'ইউনিকোড কনভার্টার',
 	'unicodeconverter-ok' => 'ঠিক আছে',
 	'unicodeconverter-oldtext' => 'মূল লেখা:',
 	'unicodeconverter-newtext' => 'রূপান্তরিত লেখা:',
