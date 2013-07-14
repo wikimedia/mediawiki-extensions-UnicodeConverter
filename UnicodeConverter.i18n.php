@@ -298,11 +298,12 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author Ebraminio
+ * @author Reza1615
  * @author ZxxZxxZ
  */
 $messages['fa'] = array(
 	'unicodeconverter' => 'مبدل یونیکد',
-	'unicodeconverter-desc' => 'مثالی ساده از ماژول یک صفحهٔ ویژه. [[Special:UnicodeConverter|رشته‌ای به UTF-8 می‌دهد]]، آن این را به نهادهای اچ‌تی‌ام‌ال مناسب برای صفحهٔ وب ایزو ۸۸۵۹-۱ تبدیل می‌کند',
+	'unicodeconverter-desc' => 'مثالی ساده از پودمان یک صفحهٔ ویژه. [[Special:UnicodeConverter|رشته‌ای به UTF-8 می‌دهد]]، آن این را به نهادهای اچ‌تی‌ام‌ال مناسب برای صفحهٔ وب ایزو ۸۸۵۹-۱ تبدیل می‌کند',
 	'unicodeconverter-ok' => 'تبدیل شود',
 	'unicodeconverter-oldtext' => 'متن اصلی:',
 	'unicodeconverter-newtext' => 'متن تبدیل شده:',
