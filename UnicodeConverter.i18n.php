@@ -529,10 +529,12 @@ $messages['km'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
 	'unicodeconverter' => '유니코드 변환기',
-	'unicodeconverter-desc' => '[[Special:UnicodeConverter|UTF-8로 주어진 문자열]]을 ISO 8859-1 웹 페이지를 위한 HTML 문자열로 변환',
+	'unicodeconverter-desc' => '특수 문서 모듈의 간단한 예입니다.
+[[Special:UnicodeConverter|UTF-8로 주어진 문자열]]을 ISO 8859-1 웹 페이지에 적합한 HTML 개체로 변환합니다.',
 	'unicodeconverter-ok' => '확인',
 	'unicodeconverter-oldtext' => '원본 문자열:',
 	'unicodeconverter-newtext' => '변환된 문자열:',
