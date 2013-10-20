@@ -208,6 +208,13 @@ $messages['ca'] = array(
 	'unicodeconverter-newtext' => 'Text convertit:',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'unicodeconverter-oldtext' => 'ДӀадолалун йоза:',
+);
+
 /** Czech (česky)
  * @author Matěj Grabovský
  */
