@@ -215,7 +215,7 @@ $messages['ce'] = array(
 	'unicodeconverter-oldtext' => 'ДӀадолалун йоза:',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Matěj Grabovský
  */
 $messages['cs'] = array(
