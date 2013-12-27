@@ -14,7 +14,7 @@ class SpecialUnicodeConverter extends SpecialPage {
 
 		$q = $this->getRequest()->getText( 'q' );
 		$encQ = htmlspecialchars( $q );
-		$action = $this->getTitle()->escapeLocalUrl();
+		$action = $this->getPageTitle()->escapeLocalUrl();
 		$ok = $this->msg( 'unicodeconverter-ok' )->escaped();
 
 		$this->getOutput()->addHTML( <<<END
