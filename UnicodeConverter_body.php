@@ -40,7 +40,11 @@ END
 	}
 }
 
-# Converts a single UTF-8 character into the corresponding HTML character entity
+/**
+ * Converts a single UTF-8 character into the corresponding HTML character entity
+ * @param array $matches
+ * @return string
+ */
 function wfUtf8Entity( $matches ) {
 	$char = $matches[0];
 	# Find the length
@@ -76,7 +80,11 @@ function wfUtf8Entity( $matches ) {
 	return "&#$z;";
 }
 
-# Converts all multi-byte characters in a UTF-8 string into the appropriate character entity
-function wfUtf8ToHTML($string) {
+/**
+ * Converts all multi-byte characters in a UTF-8 string into the appropriate character entity
+ * @param string $string
+ * @return string
+ */
+function wfUtf8ToHTML( $string ) {
 	return preg_replace_callback( '/[\\xc0-\\xfd][\\x80-\\xbf]*/', 'wfUtf8Entity', $string );
 }
