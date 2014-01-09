@@ -103,10 +103,11 @@ $messages['arz'] = array(
 
 /** Assamese (অসমীয়া)
  * @author Bishnu Saikia
+ * @author Gitartha.bordoloi
  */
 $messages['as'] = array(
 	'unicodeconverter' => 'ইউনিকোড পৰিৱৰ্তক',
-	'unicodeconverter-ok' => 'ঠিক আছে',
+	'unicodeconverter-ok' => 'শুদ্ধ',
 	'unicodeconverter-oldtext' => 'মূল লেখা:',
 	'unicodeconverter-newtext' => 'ৰূপান্তৰিত পাঠ্য:',
 );
