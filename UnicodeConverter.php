@@ -13,13 +13,13 @@ if (!defined('MEDIAWIKI')) {
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'UnicodeConverter',
-	//'version' => '1.1',
 	'author' => 'Tim Starling',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:UnicodeConverter',
 	'descriptionmsg' => 'unicodeconverter-desc',
 );
 
-$dir = dirname(__FILE__) . '/';
+$dir = __DIR__ . '/';
+$wgMessagesDirs['UnicodeConverter'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['UnicodeConverter'] = $dir . 'UnicodeConverter.i18n.php';
 $wgExtensionMessagesFiles['UnicodeConverterAlias'] = $dir . 'UnicodeConverter.alias.php';
 $wgAutoloadClasses['SpecialUnicodeConverter'] = $dir . 'UnicodeConverter_body.php';
