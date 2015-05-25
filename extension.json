@@ -1,0 +1,21 @@
+{
+	"name": "UnicodeConverter",
+	"author": "Tim Starling",
+	"url": "https://www.mediawiki.org/wiki/Extension:UnicodeConverter",
+	"descriptionmsg": "unicodeconverter-desc",
+	"type": "specialpage",
+	"SpecialPages": {
+		"UnicodeConverter": "SpecialUnicodeConverter"
+	},
+	"MessagesDirs": {
+		"UnicodeConverter": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"UnicodeConverterAlias": "UnicodeConverter.alias.php"
+	},
+	"AutoloadClasses": {
+		"SpecialUnicodeConverter": "UnicodeConverter_body.php"
+	}
+}
