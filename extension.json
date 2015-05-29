@@ -17,5 +17,6 @@
 	},
 	"AutoloadClasses": {
 		"SpecialUnicodeConverter": "UnicodeConverter_body.php"
-	}
+	},
+	"manifest_version": 1
 }
