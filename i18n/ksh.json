@@ -5,7 +5,7 @@
 		]
 	},
 	"unicodeconverter": "<i lang=\"en\">Unicode</i> Wandler",
-	"unicodeconverter-desc": "En eijfach Beijspöll för en Söndersigg. [[Special:UnicodeConverter|Jif ene Tex en UTF-8 en]], dä weed in <i lang=\"en\">HTML entities</i> ömjewandelt. Dat deit för en ISO 8859-1 Websigg paße.",
+	"unicodeconverter-desc": "En eijfach Beijspöll för en {{int:specialpage}}. [[Special:UnicodeConverter|Jivv ene Täx em <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Däm Unicode singe Universal Coded Character Set + Transformation Format—8-Bit\">UTF-8</i> en]], dä weed en <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"HyperText Markup Language character entity references - „ene Äsaz för Zeijsche ußzedröke, di mer schlääsch udder jaa nit ennjävve kann“\">HTML entities</i> ömjewandelt. Dat deit för en <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"International Organization for Standardization - „Dänne ier Zeijsche-Kodehrong: Lating-1 för Wässeuroppa“\">ISO-8859-1</i>-koddehrte Wäbsigg paße.",
 	"unicodeconverter-ok": "Loß jonn!",
 	"unicodeconverter-oldtext": "Ojinaal Tex:",
 	"unicodeconverter-newtext": "Ömjesaz Tex:"
