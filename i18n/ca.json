@@ -3,10 +3,11 @@
 		"authors": [
 			"Solde",
 			"Vriullop",
-			"Fitoschido"
+			"Fitoschido",
+			"Jaumeortola"
 		]
 	},
-	"unicodeconverter": "Conversor unicode",
+	"unicodeconverter": "Convertidor Unicode",
 	"unicodeconverter-desc": "Exemple simple s'un mòdul de pàgina especial. [[Special:UnicodeConverter|Donada una cadena de caràcters en UTF-8]] la converteix en entitats HTML adequades per a una pàgina web en ISO 8859-1.",
 	"unicodeconverter-ok": "D’acord",
 	"unicodeconverter-oldtext": "Text original:",
