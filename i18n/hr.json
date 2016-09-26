@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Herr Mlinka"
+			"Herr Mlinka",
+			"Ex13"
 		]
 	},
-	"unicodeconverter-oldtext": "Izvorni tekst:"
+	"unicodeconverter": "Pretvarač za Unicode",
+	"unicodeconverter-desc": "Jednostavan primjer modula specijalne stranice. [[Special:UnicodeConverter|Dani niz u UTF-8]], pretvara ga u HTML stavke pogodne za web stranicu u ISO 8859-1",
+	"unicodeconverter-ok": "U redu",
+	"unicodeconverter-oldtext": "Izvorni tekst:",
+	"unicodeconverter-newtext": "Pretvoreni tekst:"
 }
