@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Bellayet",
-			"Jayantanth"
+			"Jayantanth",
+			"Aftabuzzaman"
 		]
 	},
-	"unicodeconverter": "ইউনিকোড কনভার্টার",
+	"unicodeconverter": "ইউনিকোড রূপান্তরকারী",
 	"unicodeconverter-ok": "ঠিক আছে",
 	"unicodeconverter-oldtext": "মূল লেখা:",
 	"unicodeconverter-newtext": "রূপান্তরিত লেখা:"
