@@ -6,7 +6,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 
 class SpecialUnicodeConverter extends SpecialPage {
 	function __construct() {
-		parent::__construct("UnicodeConverter");
+		parent::__construct( "UnicodeConverter" );
 	}
 
 	function execute( $par ) {
@@ -28,11 +28,11 @@ END
 		if ( !is_null( $q ) ) {
 			$html = wfUtf8ToHTML( htmlspecialchars( $q ) );
 			$this->getOutput()->addHTML( "<br /><b>" .
-					$this->msg('unicodeconverter-oldtext')->escaped() .
+					$this->msg( 'unicodeconverter-oldtext' )->escaped() .
 					"</b><br /><br />" .
 					nl2br( $html ) .
 					"<br /><br /><hr /><br /><b>" .
-					$this->msg('unicodeconverter-newtext')->escaped() .
+					$this->msg( 'unicodeconverter-newtext' )->escaped() .
 					"</b><br /><br />" .
 			  		nl2br( htmlspecialchars( $html ) ) .
 					"<br /><br />" );
@@ -47,7 +47,7 @@ END
  */
 function wfUtf8Entity( $matches ) {
 	$char = $matches[0];
-	# Find the length
+	// Find the length
 	$z = ord( $char{0} );
 	if ( $z & 0x80 ) {
 		$length = 0;
@@ -66,17 +66,17 @@ function wfUtf8Entity( $matches ) {
 		return $char;
 	}
 
-	# Mask off the length-determining bits and shift back to the original location
+	// Mask off the length-determining bits and shift back to the original location
 	$z &= 0xff;
 	$z >>= $length;
 
-	# Add in the free bits from subsequent bytes
+	// Add in the free bits from subsequent bytes
 	for ( $i=1; $i<$length; $i++ ) {
 		$z <<= 6;
 		$z |= ord( $char{$i} ) & 0x3f;
 	}
 
-	# Make entity
+	// Make entity
 	return "&#$z;";
 }
 

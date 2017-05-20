@@ -4,26 +4,26 @@
  *
  */
 
-$specialPageAliases = array();
+$specialPageAliases = [];
 
-$specialPageAliases['en'] = array(
-	'UnicodeConverter' => array( 'UnicodeConverter', 'UnicodeConvertor' ),
-);
+$specialPageAliases['en'] = [
+	'UnicodeConverter' => [ 'UnicodeConverter', 'UnicodeConvertor' ],
+];
 
 /** Arabic (العربية)
  * @author Meno25
  */
-$specialPageAliases['ar'] = array(
-	'UnicodeConverter' => array( 'محول_يونيكود' ),
-);
+$specialPageAliases['ar'] = [
+	'UnicodeConverter' => [ 'محول_يونيكود' ],
+];
 
 /** Egyptian Spoken Arabic (مصرى)
  * @author Meno25
  */
-$specialPageAliases['arz'] = array(
-	'UnicodeConverter' => array( 'محول_يونيكود' ),
-);
+$specialPageAliases['arz'] = [
+	'UnicodeConverter' => [ 'محول_يونيكود' ],
+];
 
-$specialPageAliases['nl'] = array(
-	'UnicodeConverter' => array( 'UnicodeConverteren' ),
-);
+$specialPageAliases['nl'] = [
+	'UnicodeConverter' => [ 'UnicodeConverteren' ],
+];
