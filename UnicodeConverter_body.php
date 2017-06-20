@@ -27,15 +27,17 @@ END
 
 		if ( !is_null( $q ) ) {
 			$html = wfUtf8ToHTML( htmlspecialchars( $q ) );
-			$this->getOutput()->addHTML( "<br /><b>" .
-					$this->msg( 'unicodeconverter-oldtext' )->escaped() .
-					"</b><br /><br />" .
-					nl2br( $html ) .
-					"<br /><br /><hr /><br /><b>" .
-					$this->msg( 'unicodeconverter-newtext' )->escaped() .
-					"</b><br /><br />" .
-			  		nl2br( htmlspecialchars( $html ) ) .
-					"<br /><br />" );
+			$this->getOutput()->addHTML(
+				"<br /><b>" .
+				$this->msg( 'unicodeconverter-oldtext' )->escaped() .
+				"</b><br /><br />" .
+				nl2br( $html ) .
+				"<br /><br /><hr /><br /><b>" .
+				$this->msg( 'unicodeconverter-newtext' )->escaped() .
+				"</b><br /><br />" .
+				nl2br( htmlspecialchars( $html ) ) .
+				"<br /><br />"
+			);
 		}
 	}
 }
