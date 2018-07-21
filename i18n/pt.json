@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Hamilton Abreu"
 		]
 	},
 	"unicodeconverter": "Conversor Unicode",
-	"unicodeconverter-desc": "Um exemplo simples de um módulo de página especial. [[Special:UnicodeConverter|Dada uma cadeia de caracteres em UTF-8]], converte-a em entidades HTML, apropriadas para uma página web ISO 8859-1",
+	"unicodeconverter-desc": "Um exemplo simples de um módulo de página especial. [[Special:UnicodeConverter|Dado um texto em UTF-8]], converte-o em entidades HTML, apropriadas para uma página da Internet em ISO 8859-1",
 	"unicodeconverter-ok": "OK",
 	"unicodeconverter-oldtext": "Texto original:",
 	"unicodeconverter-newtext": "Texto convertido:"
