@@ -10,7 +10,7 @@
 	},
 	"unicodeconverter": "{{doc-special|UnicodeConverter|unlisted=1}}",
 	"unicodeconverter-desc": "{{desc|name=Unicode Converter|url=https://www.mediawiki.org/wiki/Extension:UnicodeConverter}}",
-	"unicodeconverter-ok": "Used as label for the Submit button.\n{{Identical|OK}}",
+	"unicodeconverter-ok": "Used as label for the Submit button.\n{{Identical|Convert}}",
 	"unicodeconverter-oldtext": "Used as label for output.\n\nSee also:\n* {{msg-mw|Unicodeconverter-newtext}}",
 	"unicodeconverter-newtext": "Used as label for output.\n\nSee also:\n* {{msg-mw|Unicodeconverter-oldtext}}"
 }
