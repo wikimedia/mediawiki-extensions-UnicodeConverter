@@ -14,16 +14,23 @@ class SpecialUnicodeConverter extends SpecialPage {
 
 		$q = $this->getRequest()->getText( 'q' );
 		$encQ = htmlspecialchars( $q );
-		$action = htmlspecialchars( $this->getPageTitle()->getLocalUrl() );
-		$ok = $this->msg( 'unicodeconverter-ok' )->escaped();
 
-		$this->getOutput()->addHTML( <<<END
-<form name="ucf" method="post" action="$action">
-<textarea rows="15" cols="80" name="q">$encQ</textarea><br />
-<input type="submit" name="submit" value="$ok" /><br /><br />
-</form>
-END
-);
+		$formDescriptor = [
+			'textarea' => [
+				'type' => 'textarea',
+				'name' => 'q',
+				'default' => $encQ,
+				'rows' => 15,
+			]
+		];
+
+		$htmlForm = HTMLForm::factory( 'ooui', $formDescriptor, $this->getContext() );
+		$htmlForm
+			->setName( 'ucf' )
+			->setSubmitName( 'submit' )
+			->setSubmitTextMsg( 'unicodeconverter-ok' )
+			->prepareForm()
+			->displayForm( false );
 
 		if ( !is_null( $q ) ) {
 			$html = wfUtf8ToHTML( htmlspecialchars( $q ) );
