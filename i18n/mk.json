@@ -7,7 +7,7 @@
 	},
 	"unicodeconverter": "Претворач на Уникод",
 	"unicodeconverter-desc": "Прост пример за модул за службена страница. [[Special:UnicodeConverter|Ако му се зададе низата UTF-8]], ја претвора во HTML ентитети погодни за семрежни страници по стандардот ISO 8859-1",
-	"unicodeconverter-ok": "ОК",
+	"unicodeconverter-ok": "Претвори",
 	"unicodeconverter-oldtext": "Изворен текст:",
 	"unicodeconverter-newtext": "Претворен текст:"
 }
