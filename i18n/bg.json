@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"StanProg"
 		]
 	},
-	"unicodeconverter-ok": "Добре",
+	"unicodeconverter-ok": "Преобразуване",
 	"unicodeconverter-oldtext": "Оригинален текст:",
 	"unicodeconverter-newtext": "Преобразуван текст:"
 }
