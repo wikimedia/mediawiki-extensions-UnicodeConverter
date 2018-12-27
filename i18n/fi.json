@@ -5,12 +5,13 @@
 			"Crt",
 			"Silvonen",
 			"Str4nd",
-			"ZeiP"
+			"ZeiP",
+			"Pyscowicz"
 		]
 	},
 	"unicodeconverter": "Unicode-muunnin",
 	"unicodeconverter-desc": "Yksinkertainen esimerkki toimintosivulisäosasta. Muuntaa [[Special:UnicodeConverter|annetun UTF-8-merkkijonon]] HTML-entiteeteiksi, joita voi käyttää ISO 8859-1 -verkkosivulla.",
-	"unicodeconverter-ok": "OK",
+	"unicodeconverter-ok": "Muunna",
 	"unicodeconverter-oldtext": "Alkuperäinen teksti",
 	"unicodeconverter-newtext": "Muunnettu teksti"
 }
