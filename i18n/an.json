@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Juanpabl"
+			"Juanpabl",
+			"Fitoschido"
 		]
 	},
-	"unicodeconverter-ok": "D'alcuerdo"
+	"unicodeconverter-ok": "Convertir"
 }

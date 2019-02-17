@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"Fitoschido"
 		]
 	},
 	"unicodeconverter": "Convertidor unicode",
 	"unicodeconverter-desc": "Un exemplu cenciellu de módulu d'una páxina especial. [[Special:UnicodeConverter|Dando-y una cadena en UTF-8]], la convierte a entidaes HTML afayadices pa una páxina web ISO 8859-1",
-	"unicodeconverter-ok": "Aceutar",
+	"unicodeconverter-ok": "Convertir",
 	"unicodeconverter-oldtext": "Testu orixinal:",
 	"unicodeconverter-newtext": "Testu convertíu:"
 }
