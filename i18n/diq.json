@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marmase"
+			"Marmase",
+			"Mirzali",
+			"Orbot707"
 		]
 	},
-	"unicodeconverter-ok": "Temam"
+	"unicodeconverter": "Çarnayoğê Unicode",
+	"unicodeconverter-ok": "Açarne",
+	"unicodeconverter-oldtext": "Metıno oricinal:",
+	"unicodeconverter-newtext": "Metıno açarnaye:"
 }
