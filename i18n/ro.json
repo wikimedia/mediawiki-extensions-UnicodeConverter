@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"KlaudiuMihaila"
+			"KlaudiuMihaila",
+			"Andrei Stroe"
 		]
 	},
 	"unicodeconverter": "Convertor Unicode",
-	"unicodeconverter-ok": "OK",
+	"unicodeconverter-ok": "Convertește",
 	"unicodeconverter-oldtext": "Text original:",
 	"unicodeconverter-newtext": "Text convertit:"
 }
