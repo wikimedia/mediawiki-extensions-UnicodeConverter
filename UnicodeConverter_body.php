@@ -1,8 +1,4 @@
 <?php
-if ( !defined( 'MEDIAWIKI' ) ) {
-	echo "UnicodeConverter extension\n";
-	exit( 1 );
-}
 
 class SpecialUnicodeConverter extends SpecialPage {
 	function __construct() {
