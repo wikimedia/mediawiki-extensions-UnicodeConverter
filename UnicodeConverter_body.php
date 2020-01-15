@@ -28,7 +28,7 @@ class SpecialUnicodeConverter extends SpecialPage {
 			->prepareForm()
 			->displayForm( false );
 
-		if ( !is_null( $q ) ) {
+		if ( $q !== null ) {
 			$html = wfUtf8ToHTML( htmlspecialchars( $q ) );
 			$this->getOutput()->addHTML(
 				"<br /><b>" .
