@@ -17,7 +17,7 @@
 		"UnicodeConverterAlias": "UnicodeConverter.alias.php"
 	},
 	"AutoloadClasses": {
-		"SpecialUnicodeConverter": "UnicodeConverter_body.php"
+		"SpecialUnicodeConverter": "includes/SpecialUnicodeConverter.php"
 	},
 	"manifest_version": 1
 }
