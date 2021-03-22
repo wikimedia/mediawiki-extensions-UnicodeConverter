@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"unicodeconverter": "Pretvornik unikod",
 	"unicodeconverter-desc": "Preprost primer modula posebne strani. [[Special:UnicodeConverter|Podan niz v UTF-8]] pretvori v entitete HTML, primerne za spletno stran ISO 8859-1",
 	"unicodeconverter-ok": "Pretvori",
-	"unicodeconverter-oldtext": "Izvirno besedilo:",
+	"unicodeconverter-oldtext": "Izvorno besedilo:",
 	"unicodeconverter-newtext": "Pretvorjeno besedilo:"
 }
