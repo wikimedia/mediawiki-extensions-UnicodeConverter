@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"PPerviz"
+			"PPerviz",
+			"NMW03"
 		]
 	},
-	"unicodeconverter-ok": "OK",
+	"unicodeconverter-ok": "Çevir",
 	"unicodeconverter-oldtext": "Orijinal mətn:",
 	"unicodeconverter-newtext": "Çevirilən mətn:"
 }
