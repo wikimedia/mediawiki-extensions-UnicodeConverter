@@ -5,6 +5,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:UnicodeConverter",
 	"descriptionmsg": "unicodeconverter-desc",
 	"type": "specialpage",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
 	"SpecialPages": {
 		"UnicodeConverter": "SpecialUnicodeConverter"
 	},
@@ -19,5 +22,5 @@
 	"AutoloadClasses": {
 		"SpecialUnicodeConverter": "includes/SpecialUnicodeConverter.php"
 	},
-	"manifest_version": 1
+	"manifest_version": 2
 }
