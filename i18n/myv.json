@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Botuzhaleny-sodamo"
+			"Botuzhaleny-sodamo",
+			"Rueter"
 		]
 	},
 	"unicodeconverter": "Уникодонь полавтомапель",
-	"unicodeconverter-ok": "Вадря",
+	"unicodeconverter-ok": "Полавтомс",
 	"unicodeconverter-oldtext": "Васнянь текст:",
 	"unicodeconverter-newtext": "Полавтозь текст:"
 }
