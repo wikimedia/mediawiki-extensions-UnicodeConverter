@@ -5,9 +5,9 @@
 			"Rancher"
 		]
 	},
-	"unicodeconverter": "Junikod konverter",
-	"unicodeconverter-desc": "Jednostavan primer modula specijalne streane. [[Special:UnicodeConverter|Dati string u UTF-8]] može da konvertuje u HTML entitete pogodne za neku ISO 8859-1 veb-stranu",
-	"unicodeconverter-ok": "U redu",
-	"unicodeconverter-oldtext": "Izvorni tekst:",
-	"unicodeconverter-newtext": "Konvertovan tekst:"
+	"unicodeconverter": "Pretvarač za Unicode",
+	"unicodeconverter-desc": "Jednostavan primer modula posebne stranice. [[Special:UnicodeConverter|Datu nisku u formatu UTF-8]] pretvara u HTML stavke pogodne za veb-stranice u ISO 8859-1 formatu",
+	"unicodeconverter-ok": "Pretvori",
+	"unicodeconverter-oldtext": "Prvobitni tekst:",
+	"unicodeconverter-newtext": "Pretvoreni tekst:"
 }
