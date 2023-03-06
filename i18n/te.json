@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Veeven"
+			"Veeven",
+			"Tmamatha"
 		]
 	},
+	"unicodeconverter": "యూనికోడ్ కన్వర్టర్",
 	"unicodeconverter-ok": "మార్పిడిచేయి",
 	"unicodeconverter-oldtext": "అసలు పాఠ్యం:",
 	"unicodeconverter-newtext": "మార్చిన పాఠ్యం:"
