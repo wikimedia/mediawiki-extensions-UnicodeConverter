@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
 	"unicodeconverter": "د يونيکوډ اړونکی",
-	"unicodeconverter-ok": "ښه",
+	"unicodeconverter-ok": "ور‌اړول",
 	"unicodeconverter-oldtext": "آرنی متن:",
 	"unicodeconverter-newtext": "اړول شوی متن:"
 }
